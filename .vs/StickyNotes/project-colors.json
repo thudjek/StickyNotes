@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "62ed6816-2fe2-407a-95bb-71e2a6f18ddd": {
+      "ProjectGuid": "62ed6816-2fe2-407a-95bb-71e2a6f18ddd",
+      "DisplayName": "StickyNotesWin",
+      "ColorIndex": 0
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "9b76c409-ecf9-4c13-b27b-9a8a43d4c0fe": {
+      "ProjectGuid": "9b76c409-ecf9-4c13-b27b-9a8a43d4c0fe",
+      "DisplayName": "DataAccess",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

@@ -1,0 +1,16 @@
+E:\Projects\StickyNotes\DataAccess\bin\Debug\net6.0\DataAccess.deps.json
+E:\Projects\StickyNotes\DataAccess\bin\Debug\net6.0\DataAccess.runtimeconfig.json
+E:\Projects\StickyNotes\DataAccess\bin\Debug\net6.0\DataAccess.dll
+E:\Projects\StickyNotes\DataAccess\bin\Debug\net6.0\ref\DataAccess.dll
+E:\Projects\StickyNotes\DataAccess\bin\Debug\net6.0\DataAccess.pdb
+E:\Projects\StickyNotes\DataAccess\obj\Debug\net6.0\DataAccess.GlobalUsings.g.cs
+E:\Projects\StickyNotes\DataAccess\obj\Debug\net6.0\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projects\StickyNotes\DataAccess\obj\Debug\net6.0\DataAccess.AssemblyInfoInputs.cache
+E:\Projects\StickyNotes\DataAccess\obj\Debug\net6.0\DataAccess.AssemblyInfo.cs
+E:\Projects\StickyNotes\DataAccess\obj\Debug\net6.0\DataAccess.csproj.CoreCompileInputs.cache
+E:\Projects\StickyNotes\DataAccess\obj\Debug\net6.0\DataAccess.dll
+E:\Projects\StickyNotes\DataAccess\obj\Debug\net6.0\ref\DataAccess.dll
+E:\Projects\StickyNotes\DataAccess\obj\Debug\net6.0\DataAccess.pdb
+E:\Projects\StickyNotes\DataAccess\obj\Debug\net6.0\DataAccess.genruntimeconfig.cache
+E:\Projects\StickyNotes\DataAccess\bin\Debug\net6.0\NotesDB.db
+E:\Projects\StickyNotes\DataAccess\obj\Debug\net6.0\DataAccess.csproj.AssemblyReference.cache
